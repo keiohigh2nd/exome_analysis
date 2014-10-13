@@ -1,0 +1,12 @@
+#*#
+*_flymake.*
+*.pyc
+.unittest-gtest
+.waf-*
+build
+.lock-waf*
+build
+data
+.DS_Store
+ex-configs
+trained_model*
