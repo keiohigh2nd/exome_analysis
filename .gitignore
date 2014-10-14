@@ -10,3 +10,6 @@ data
 .DS_Store
 ex-configs
 trained_model*
+*.txt
+*.png
+*.jpeg
